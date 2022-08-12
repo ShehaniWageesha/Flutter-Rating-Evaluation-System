@@ -1,6 +1,4 @@
-# crud_sliit
-
-Sliit crud oparation
+This application is for teacher evaluation system. The users can use this mobile application to ask for help about students' academic activities, rate teachers according to their performance and etc.
 
 ## Getting Started
 

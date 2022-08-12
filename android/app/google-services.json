@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397412359114",
+    "project_id": "sliitcrud",
+    "storage_bucket": "sliitcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397412359114:android:bbc299b3a4c5e8906acd33",
+        "android_client_info": {
+          "package_name": "com.example.crud.crud_sliit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397412359114-eu74haqdd2ph2giec3igf9ron7rf226i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGx53ECNuD7MO2r_oU84Wn2DRC1KYHRaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397412359114-eu74haqdd2ph2giec3igf9ron7rf226i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
